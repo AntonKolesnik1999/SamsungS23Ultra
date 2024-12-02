@@ -1,4 +1,4 @@
-# SamsungS23Ultra-
+# SamsungS23Ultra
 
 Здравствуйте!
 
